@@ -1,8 +1,9 @@
 # 🔧 Sistema de Monitoramento e Alertas para Usinas Nucleares
  
-Um sistema abrangente de monitoramento e alertas para operadores de usinas nucleares, com verificação automatizada de EPIs através de deep learning e visão computacional.
+## 📝 Descrição Geral do Projeto
 
-## 🎯 Visão Geral
+Um sistema abrangente de monitoramento e alertas para operadores de usinas nucleares, com verificação automatizada de EPIs através de deep learning e visão computacional.
+🎯 Visão Geral
 Este sistema oferece monitoramento em tempo real de parâmetros críticos em usinas nucleares, implementando um módulo inovador de verificação de EPIs (Equipamentos de Proteção Individual). Combina tecnologias tradicionais de monitoramento com inteligência artificial para garantir a rigorosa adesão aos padrões de segurança nuclear.
 
 ### 🌟 Principais Características
@@ -15,7 +16,11 @@ O sistema implementa um módulo automatizado de verificação de EPIs utilizando
 Framework: TensorFlow/Keras com OpenCV Arquitetura: Redes Neurais Convolucionais (CNN) Desenvolvimento Mobile: Kotlin
 
 ### 📊 Métricas de Desempenho
-mAP: 81,7% Precisão na Detecção: 89,8% Recall: 72,3% Precisão na Detecção de Máscaras: 91% Precisão na Detecção de Macacão: 72%
+mAP: 81,7% 
+Precisão na Detecção: 89,8% 
+Recall: 72,3% 
+Precisão na Detecção de Máscaras: 91% 
+Precisão na Detecção de Macacão: 72%
 
 ## 🔨 Metodologia de Implementação
 1. Preparação do Dataset
